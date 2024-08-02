@@ -1,3 +1,31 @@
 .menu_bar .menu:nth-child(3) a{
     color: #1556F7;
 }
+.Creative{
+    color: #003acb;
+    font-size: 96px;
+    margin-left: 300px;
+}
+.Nurture{
+    -webkit-text-stroke: 1px #003acb;
+    color: white;
+    font-size: 96px;
+    margin-left: 630px;
+}
+.Strive{
+    color: #003acb;
+    font-size: 96px;
+    margin-left: 334px;
+}
+.Phrases{
+    margin-left: 494px;
+}
+.IDA1{
+    margin-top: 357px;
+}
+.text{
+    float: right;
+    margin-top: 454px;
+    font-size: 55px;
+    margin-right: 162px;
+}
