@@ -1,5 +1,6 @@
 .menu_bar .menu:first-child a{
     color: #1556F7;
+    font-weight: bold;
 }
 .backgrond-image{
     width: 1280px;
